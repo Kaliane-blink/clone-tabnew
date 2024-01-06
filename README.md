@@ -1,2 +1,2 @@
 # clone-tabnew
-Estou começando na programação ( jennie é a melhor)
+Estou começando na programação (jennie é a melhor)
